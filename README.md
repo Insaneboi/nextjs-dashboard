@@ -1,2 +1,2 @@
 # nextjs-dashboard
-Next JS Example Project
+This is next gen project setup 
